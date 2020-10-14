@@ -1,4 +1,4 @@
-# Quiz-app-final-round-of-RAW
+# Quiz-web-app
 Read the instructions carefully and try to solve them- 
 1. There are total 5 questions in the quiz. 
 2. Each question consist of 1 mark each. 
